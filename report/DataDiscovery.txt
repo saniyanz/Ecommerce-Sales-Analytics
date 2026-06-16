@@ -1,0 +1,47 @@
+Total number of rows - 10194
+
+Total number of columns - 21
+
+Columns - 'Row ID', 'Order ID', 'Order Date', 'Ship Date', 'Ship Mode',
+       'Customer ID', 'Customer Name', 'Segment', 'Country/Region', 'City',
+       'State/Province', 'Postal Code', 'Region', 'Product ID', 'Category',
+       'Sub-Category', 'Product Name', 'Sales', 'Quantity', 'Discount',
+       'Profit'
+
+Identifier Columns:
+- Row ID
+- Order ID
+- Customer ID
+- Product ID
+
+Numerical Columns -  'Sales', 'Quantity', 'Discount',
+       					'Profit'
+
+Non-Numerical Columns - 'Ship Mode',
+        'Customer Name', 'Segment', 'Country/Region', 'City',
+       'State/Province', 'Postal Code', 'Region',  'Category',
+       'Sub-Category', 'Product Name'
+
+Date Columns - 'Order Date', 'Ship Date'
+
+
+What is the newest Order Date? 
+Ans - 30-12-2026
+
+What is the oldest Order Date?
+Ans - 3-1-2023
+
+How many unique Regions exist?
+Central, east, South, West
+
+How many unique Categories exist?
+Furniture, Office supplies, Technology
+
+How many unique Segments exist?
+Consumer, Corporate, Home Office
+
+Check whether the same Order ID appears multiple times.
+YES
+
+
+4 years of sales data
