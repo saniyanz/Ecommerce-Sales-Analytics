@@ -16,6 +16,21 @@ The workflow included:
 - Power BI
 - Microsoft Excel/CSV
 
+## Dataset
+
+- Source: Sample Superstore Dataset
+- Records: 10,194
+- Time Period: 2023–2026
+- Features: 21 columns including sales, profit, discount, customer, product, and regional information.
+
+## Project Workflow
+
+1. Imported and explored data using SQL.
+2. Performed category, customer, regional, and discount analysis.
+3. Generated business insights and recommendations.
+4. Created DAX measures in Power BI.
+5. Built an interactive three-page dashboard.
+
 ## Key Business Insights
 
 - Technology generated the highest sales and profit.
