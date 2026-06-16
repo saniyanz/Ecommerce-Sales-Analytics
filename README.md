@@ -33,3 +33,17 @@ The workflow included:
 1. Executive Summary
 2. Product Performance
 3. Customer & Region Analysis
+
+## Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](screenshots/executive_summary.png)
+
+### Product Performance
+
+![Product Performance](screenshots/product_performance.png)
+
+### Customer & Region Analysis
+
+![Customer and Region Analysis](screenshots/customer_region_analysis.png)
